@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.116
+## (2021-01-22)
+
+* Revert "Change some border colors to have higher contrast" [Alexis Svinartchouk]
+* Update electron to v9.4.1 [Alexis Svinartchouk]
+
+<details>
+<summary> Update etcher-sdk from 5.2.1 to 5.2.2 [Alexis Svinartchouk] </summary>
+
+> ## etcher-sdk-5.2.2
+> ### (2021-01-19)
+> 
+> 
+> <details>
+> <summary> Update drivelist from 9.2.2 to 9.2.4 [Alexis Svinartchouk] </summary>
+> 
+>> ### drivelist-9.2.4
+>> #### (2021-01-19)
+>> 
+>> * Pass strings between methods as std::string instead of char * [Floris Bos]
+>> 
+>> ### drivelist-9.2.3
+>> #### (2021-01-19)
+>> 
+>> * Support lsblk versions that do no support the pttype column [Alexis Svinartchouk]
+>> 
+> </details>
+> 
+> 
+</details>
+
 # v1.5.115
 ## (2021-01-18)
 
